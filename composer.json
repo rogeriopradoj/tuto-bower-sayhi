@@ -17,6 +17,7 @@
             "scripts": [
                 "sayhi.js"
             ]
-        }
+        },
+        "name": "sayhi"
     }
 }
