@@ -3,7 +3,8 @@
     "type": "component",
     "description": "Tutorial, installing a bower component via composer",
     "require": {
-        "robloach/component-installer": "*"
+        "robloach/component-installer": "*",
+        "components/jquery": "*"
     },
     "license": "MIT",
     "authors": [
