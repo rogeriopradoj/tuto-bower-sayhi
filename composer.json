@@ -1,0 +1,22 @@
+{
+    "name": "rogeriopradoj/bower-component-sayhi",
+    "type": "component",
+    "description": "Tutorial, installing a bower component via composer",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogerio Prado de Jesus",
+            "email": "rogeriopradoj@gmail.com"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "sayhi.js"
+            ]
+        }
+    }
+}
